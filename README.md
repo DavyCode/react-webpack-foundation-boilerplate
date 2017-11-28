@@ -1,6 +1,6 @@
 # react-webpack-sass-boilerplate
 
-Simple react project starter
+ react project starter
 
 #Project specifics
 webpack
